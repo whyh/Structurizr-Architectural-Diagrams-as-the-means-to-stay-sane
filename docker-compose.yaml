@@ -1,0 +1,59 @@
+version: "3.8"
+
+x-common: &common
+  image: structurizr/lite
+  environment:
+    STRUCTURIZR_WORKSPACE_FILENAME: "workspace"
+
+
+services:
+  0_introduction_diagrams:
+    <<: [ *common ]
+    volumes:
+      - ./0_introduction:/usr/local/structurizr
+    ports:
+      - "8080:8080"
+
+  1_systems_diagrams:
+    <<: [ *common ]
+    volumes:
+      - ./1_software_systems:/usr/local/structurizr
+    ports:
+      - "8081:8080"
+
+  2_containers_and_components_diagrams:
+    <<: [ *common ]
+    volumes:
+      - ./2_containers_and_components:/usr/local/structurizr
+    ports:
+      - "8082:8080"
+
+  3_perspectives_diagrams:
+    <<: [ *common ]
+    volumes:
+      - ./3_perspectives:/usr/local/structurizr
+    ports:
+      - "8083:8080"
+
+  4_deployments_diagrams:
+    <<: [ *common ]
+    volumes:
+      - ./4_deployments:/usr/local/structurizr
+    ports:
+      - "8084:8080"
+
+  5_documentation:
+    <<: [ *common ]
+    volumes:
+      - ./5_documentation:/usr/local/structurizr
+    ports:
+      - "8085:8080"
+
+  6_on_premise:
+    image: structurizr/onpremises
+    environment:
+      STRUCTURIZR_WORKSPACE_FILENAME: "workspace"
+    volumes:
+      - ./6_on_premise:/usr/local/structurizr
+    ports:
+      - "8086:8080"

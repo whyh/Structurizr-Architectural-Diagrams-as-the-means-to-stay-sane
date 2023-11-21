@@ -1,0 +1,13 @@
+# Documentation
+
+Markdown and AsciDoc support
+
+##  Architecture
+
+See the following diagram
+
+<iframe id="myEmbeddedDiagram" src="http://localhost:8086/embed/1?diagram=System_Landscape&diagramSelector=false&iframe=myEmbeddedDiagram" width="100%" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowfullscreen="true"></iframe>
+
+<script type="text/javascript" src="http://localhost:8086/static/js/structurizr-embed.js"></script>
+
+More documentation below

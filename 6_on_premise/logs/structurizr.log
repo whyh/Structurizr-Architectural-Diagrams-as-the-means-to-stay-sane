@@ -1,0 +1,68 @@
+[INFO ] 2023-11-21 22:42:17.346 [main] ContextLoaderListener - ***********************************************************************************
+[INFO ] 2023-11-21 22:42:17.351 [main] ContextLoaderListener -   _____ _                   _              _          
+[INFO ] 2023-11-21 22:42:17.364 [main] ContextLoaderListener -  / ____| |                 | |            (_)         
+[INFO ] 2023-11-21 22:42:17.365 [main] ContextLoaderListener - | (___ | |_ _ __ _   _  ___| |_ _   _ _ __ _ _____ __ 
+[INFO ] 2023-11-21 22:42:17.366 [main] ContextLoaderListener -  \___ \| __| '__| | | |/ __| __| | | | '__| |_  / '__|
+[INFO ] 2023-11-21 22:42:17.366 [main] ContextLoaderListener -  ____) | |_| |  | |_| | (__| |_| |_| | |  | |/ /| |   
+[INFO ] 2023-11-21 22:42:17.367 [main] ContextLoaderListener - |_____/ \__|_|   \__,_|\___|\__|\__,_|_|  |_/___|_|   
+[INFO ] 2023-11-21 22:42:17.368 [main] ContextLoaderListener -                                                       
+[INFO ] 2023-11-21 22:42:17.369 [main] ContextLoaderListener - Structurizr on-premises installation
+[INFO ] 2023-11-21 22:42:17.375 [main] ContextLoaderListener -  - build: 3231 (2023-11-11T21:26:13Z)
+[INFO ] 2023-11-21 22:42:17.379 [main] ContextLoaderListener -  - structurizr-java: v1.27.0
+[INFO ] 2023-11-21 22:42:17.436 [main] ContextLoaderListener -  - structurizr-dsl: v1.33.0
+[INFO ] 2023-11-21 22:42:17.450 [main] ContextLoaderListener -  - structurizr-import: v1.6.0
+[INFO ] 2023-11-21 22:42:17.474 [main] ContextLoaderListener -  - structurizr-graphviz: v2.2.2
+[INFO ] 2023-11-21 22:42:17.511 [main] ContextLoaderListener - Data directory: /usr/local/structurizr (r: true; w: true; x: true)
+[INFO ] 2023-11-21 22:42:17.516 [main] ContextLoaderListener - URL: 
+[INFO ] 2023-11-21 22:42:17.616 [main] ContextLoaderListener - Memory: used=312MB; free=199MB; total=512MB; max=512MB
+[INFO ] 2023-11-21 22:42:17.626 [main] ContextLoaderListener - 
+[INFO ] 2023-11-21 22:42:17.628 [main] ContextLoaderListener - Internet connection: true
+[INFO ] 2023-11-21 22:42:17.630 [main] ContextLoaderListener - Authentication: file
+[INFO ] 2023-11-21 22:42:17.633 [main] ContextLoaderListener - API key: false
+[INFO ] 2023-11-21 22:42:17.648 [main] ContextLoaderListener - Session: local
+[INFO ] 2023-11-21 22:42:17.651 [main] ContextLoaderListener - Data storage: file
+[INFO ] 2023-11-21 22:42:17.654 [main] ContextLoaderListener - Caching: none
+[INFO ] 2023-11-21 22:42:17.661 [main] ContextLoaderListener - Workspace archiving: false
+[INFO ] 2023-11-21 22:42:17.678 [main] ContextLoaderListener - Search: lucene
+[INFO ] 2023-11-21 22:42:17.874 [main] ContextLoaderListener - Graphviz (dot): true
+[INFO ] 2023-11-21 22:42:17.889 [main] ContextLoaderListener - DSL editor: false
+[INFO ] 2023-11-21 22:42:17.891 [main] ContextLoaderListener - ***********************************************************************************
+[INFO ] 2023-11-21 22:42:17.908 [main] ContextLoaderListener - MIT License
+[INFO ] 2023-11-21 22:42:17.909 [main] ContextLoaderListener - 
+[INFO ] 2023-11-21 22:42:17.911 [main] ContextLoaderListener - Copyright (c) 2023 Structurizr Limited
+[INFO ] 2023-11-21 22:42:17.913 [main] ContextLoaderListener - 
+[INFO ] 2023-11-21 22:42:17.914 [main] ContextLoaderListener - Permission is hereby granted, free of charge, to any person obtaining a copy
+[INFO ] 2023-11-21 22:42:17.916 [main] ContextLoaderListener - of this software and associated documentation files (the "Software"), to deal
+[INFO ] 2023-11-21 22:42:17.917 [main] ContextLoaderListener - in the Software without restriction, including without limitation the rights
+[INFO ] 2023-11-21 22:42:17.918 [main] ContextLoaderListener - to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+[INFO ] 2023-11-21 22:42:17.920 [main] ContextLoaderListener - copies of the Software, and to permit persons to whom the Software is
+[INFO ] 2023-11-21 22:42:17.923 [main] ContextLoaderListener - furnished to do so, subject to the following conditions:
+[INFO ] 2023-11-21 22:42:17.952 [main] ContextLoaderListener - 
+[INFO ] 2023-11-21 22:42:17.953 [main] ContextLoaderListener - The above copyright notice and this permission notice shall be included in all
+[INFO ] 2023-11-21 22:42:17.954 [main] ContextLoaderListener - copies or substantial portions of the Software.
+[INFO ] 2023-11-21 22:42:17.956 [main] ContextLoaderListener - 
+[INFO ] 2023-11-21 22:42:17.957 [main] ContextLoaderListener - THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+[INFO ] 2023-11-21 22:42:17.967 [main] ContextLoaderListener - IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+[INFO ] 2023-11-21 22:42:17.969 [main] ContextLoaderListener - FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+[INFO ] 2023-11-21 22:42:17.970 [main] ContextLoaderListener - AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+[INFO ] 2023-11-21 22:42:17.971 [main] ContextLoaderListener - LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+[INFO ] 2023-11-21 22:42:17.973 [main] ContextLoaderListener - OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+[INFO ] 2023-11-21 22:42:17.974 [main] ContextLoaderListener - SOFTWARE.
+[INFO ] 2023-11-21 22:42:17.976 [main] ContextLoaderListener - ***********************************************************************************
+[WARN ] 2023-11-21 22:43:13.414 [http-nio-8080-exec-1] DefaultHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'long'; nested exception is java.lang.NumberFormatException: For input string: "diagrams"]
+[WARN ] 2023-11-21 22:47:19.779 [http-nio-8080-exec-7] DefaultHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'long'; nested exception is java.lang.NumberFormatException: For input string: "diagrams"]
+[INFO ] 2023-11-21 22:47:30.083 [http-nio-8080-exec-8] AuthenticationSuccessHandler - structurizr successfully authenticated
+[WARN ] 2023-11-21 22:59:01.849 [http-nio-8080-exec-5] DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'PUT' not supported]
+[WARN ] 2023-11-21 22:59:01.855 [http-nio-8080-exec-5] DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'PUT' not supported]
+[WARN ] 2023-11-21 22:59:03.235 [http-nio-8080-exec-7] DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'PUT' not supported]
+[WARN ] 2023-11-21 22:59:03.263 [http-nio-8080-exec-7] DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'PUT' not supported]
+[WARN ] 2023-11-21 22:59:07.384 [http-nio-8080-exec-3] DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'PUT' not supported]
+[WARN ] 2023-11-21 22:59:07.387 [http-nio-8080-exec-3] DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'PUT' not supported]
+[WARN ] 2023-11-21 22:59:08.316 [http-nio-8080-exec-6] DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'PUT' not supported]
+[WARN ] 2023-11-21 22:59:08.323 [http-nio-8080-exec-6] DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'PUT' not supported]
+[WARN ] 2023-11-21 22:59:09.856 [http-nio-8080-exec-1] DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'PUT' not supported]
+[WARN ] 2023-11-21 22:59:09.864 [http-nio-8080-exec-1] DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'PUT' not supported]
+[WARN ] 2023-11-21 22:59:11.551 [http-nio-8080-exec-4] DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'PUT' not supported]
+[WARN ] 2023-11-21 22:59:11.554 [http-nio-8080-exec-4] DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'PUT' not supported]
+[WARN ] 2023-11-21 22:59:11.571 [http-nio-8080-exec-3] DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'PUT' not supported]
+[WARN ] 2023-11-21 22:59:11.573 [http-nio-8080-exec-3] DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'PUT' not supported]
